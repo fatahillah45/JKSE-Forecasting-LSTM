@@ -26,7 +26,7 @@ The results are visualized in a multi-sheet Tableau dashboard, featuring:
 2. **Error Analysis (Residuals):** Visualizing model over/under-estimation periods.
 3. **Price Distribution:** Analyzing market volatility density.
 
-> **View the Interactive Dashboard:** [[INSERT YOUR TABLEAU PUBLIC LINK HERE](https://public.tableau.com/views/Book1_17669771240010/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
+> **View the Interactive Dashboard:** [[HERE](https://public.tableau.com/views/Book1_17669771240010/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
 )]
 
 ## 📂 Repository Structure
